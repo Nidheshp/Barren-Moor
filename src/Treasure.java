@@ -1,0 +1,35 @@
+
+public class Treasure {
+		
+	int TreasureX = 18;
+	int TreasureY = 18;
+
+
+	public Treasure(int TreasureX, int TreasureY) {
+	
+		this.TreasureX=TreasureX;
+		this.TreasureY=TreasureY;
+		
+}
+	
+
+	public int getTreasureX() {
+		return TreasureX;
+	}
+
+
+	public void setTreasureX(int treasureX) {
+		TreasureX = treasureX;
+	}
+
+
+	public int getTreasureY() {
+		return TreasureY;
+	}
+
+
+	public void setTreasureY(int treasureY) {
+		TreasureY = treasureY;
+	}
+	
+}
