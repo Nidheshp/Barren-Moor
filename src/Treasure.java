@@ -1,8 +1,8 @@
 
 public class Treasure {
 		
-	int TreasureX = 18;
-	int TreasureY = 18;
+	int TreasureX = 2;
+	int TreasureY = 2;
 
 
 	public Treasure(int TreasureX, int TreasureY) {
